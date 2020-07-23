@@ -4,7 +4,7 @@
 
 
 
-> Install Dependencies
+> Install Dependencies <br>
 > Run Migrations
 > Import Articles Via DB:SEED
 > Add virtual host if using Apache
