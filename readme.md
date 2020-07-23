@@ -5,9 +5,9 @@
 
 
 > Install Dependencies <br>
-> Run Migrations
-> Import Articles Via DB:SEED
-> Add virtual host if using Apache
-> php artisan key:generate
+> Run Migrations <br>
+> Import Articles Via DB:SEED <br>
+> Add virtual host if using Apache <br>
+> php artisan key:generate <br>
 
 
